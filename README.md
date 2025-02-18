@@ -1,0 +1,1 @@
+This repository demonstrates a common C++ error: dereferencing a null pointer.  The `bug.cpp` file contains the erroneous code, which leads to undefined behavior.  The `bugSolution.cpp` file provides a corrected version with appropriate null pointer checks to prevent crashes.  This example highlights the importance of careful memory management in C++.
